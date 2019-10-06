@@ -1,5 +1,10 @@
 # <p align="center">一些非常有趣的python爬虫例子,对新手比较友好</p>
 
+<br>
+<p align="center">
+    <img src="https://zok-blog.oss-cn-hangzhou.aliyuncs.com/pythonlg.jpg" 
+        alt="Python3 Spider">
+</p>
 
 <p align="center">
     <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -9,7 +14,7 @@
     <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers/graphs/contributors"><img src="https://img.shields.io/github/contributors/shengqiangzhang/examples-of-web-crawlers?color=blue"></a>
     <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers/stargazers"><img src="https://img.shields.io/github/stars/shengqiangzhang/examples-of-web-crawlers.svg?logo=github"></a>
     <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers/network/members"><img src="https://img.shields.io/github/forks/shengqiangzhang/examples-of-web-crawlers.svg?color=blue&logo=github"></a>
-    <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
 </p>
 <br />
 
